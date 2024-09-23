@@ -1,0 +1,5 @@
+whois
+dnspython
+cryptography
+tkinter
+reportlab
